@@ -1,0 +1,5 @@
+***LORIS ADCS communication simulator for MSP430***
+
+1. Make sure that python3-venv is installed in your system.
+2. Execute run.sh to run the simulator.
+
